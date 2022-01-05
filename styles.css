@@ -1,0 +1,12 @@
+body {
+  margin: 20%;
+}
+.shows {
+  float: left;
+  width: 30%;
+  background-color: gray;
+  margin: 15px;
+}
+img {
+  float: right;
+}
