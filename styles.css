@@ -1,12 +1,35 @@
 body {
   margin: 20%;
+  background-color: #808080; 
+}
+.header {
+  margin-bottom: 10%;
+  text-align: center;
 }
 .shows {
   float: left;
   width: 30%;
-  background-color: gray;
+  background-color: #dfe6f2;
   margin: 15px;
+  padding: 10px;
+  border: 2px dotted black;
+  margin-top: 10%;
 }
+
+h2 {
+  text-align: center;
+  text-shadow: 1px;
+  padding-bottom: 10px;
+}
+
 img {
   float: right;
+  border: 2px solid black;
+  padding: 4px;
+  margin: 12px;
+
+}
+
+.bio {
+  background-color: #dfe6f2;
 }
